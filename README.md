@@ -6,4 +6,6 @@ Este repositório contém Meus primeiros projetos desenvolvidos durante meu prim
  Lista de Projetos:
 - Calculo da média de 3 notas;
 - Jogo de Adivinhação de número;
+- Simulador de Banco (ATM);
+- Somar números que o usuário digita até ele digitar 0;
 - 
